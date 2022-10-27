@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091320025658",
+    "project_id": "appnahaver",
+    "storage_bucket": "appnahaver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091320025658:android:0d67ffa30710a238eb1b03",
+        "android_client_info": {
+          "package_name": "br.ulbra.appicook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091320025658-3naeroife18nv0j1hs15aqubss0jbb2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDomPg9e4ReMtDYpgJEJZNtlz7hZjUxXKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091320025658-3naeroife18nv0j1hs15aqubss0jbb2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
